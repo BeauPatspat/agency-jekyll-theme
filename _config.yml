@@ -1,32 +1,46 @@
-url: http://patspat.com/
-baseurl: /
+url: https://BeauPatspat.github
+baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: BeauPatspat Test page
-email: N/A
-description: "(Google description) Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: BeauPatspat
+email: patspat.t@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Patspat Techathanavanich
   pic: 1
   position: Lead Designer
   social:
     - title: twitter
-      url: #
+      url: #beau_patspat
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: #beaupatspat
+    - title: instagram
+      url: #https://www.instagram.com/beaupatspat/?hl=th
+    - title: linkedin
+      url: #https://www.linkedin.com/in/beau-patspat-09063b72/
+    - title: google-plus
+          url: #
 
+- name: Palit Hongsuchon
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: facebook
+      url: #https://www.facebook.com/hongsuchon
+    - title: twitter
+      url: #
+    - title: linkedin
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
+    url: https://www.facebook.com/hongsuchon
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
@@ -36,8 +50,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1554/3 Sriprach Road, Thawang
+  - line: Nakhon Si Thammarat, Thailand 80000
 
 # Build settings
 markdown: kramdown
