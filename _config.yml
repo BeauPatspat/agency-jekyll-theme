@@ -1,11 +1,10 @@
-url: https://BeauPatspat.github
-baseurl: /agency-jekyll-theme/
+url: https://patspat.com
+baseurl: 
 
 # Site settings
 title: BeauPatspat
 email: patspat.t@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
 
 # Team names, titles and social links
 people:
@@ -21,8 +20,6 @@ people:
       url: #https://www.instagram.com/beaupatspat/?hl=th
     - title: linkedin
       url: #https://www.linkedin.com/in/beau-patspat-09063b72/
-    - title: google-plus
-          url: #
 
 - name: Palit Hongsuchon
   pic: 2
